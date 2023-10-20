@@ -1,0 +1,21 @@
+1.npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+2.npm i -D daisyui@latest
+
+3.npm install firebase
+
+4.npm install react-icons --save
+
+5.npm install moment --save
+
+6.npm install react-fast-marquee --save
+
+
+
+const Root = () => {
+    return(
+        <div></div>
+    );
+};
+export default Root;
